@@ -1,0 +1,20 @@
+{
+  "name": "react-eydnk3",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/react-eydnk3",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "antd": "2.13.3",
+    "lodash": "4.17.4"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
